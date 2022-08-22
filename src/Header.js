@@ -3,7 +3,7 @@ class Header extends Component {
 render(){
     return(
 <h1>
-    Header
+animals
     </h1>
 
 
