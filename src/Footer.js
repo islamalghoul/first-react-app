@@ -4,7 +4,7 @@ class Footer extends Component {
         return(
     
             <div>
-            Footer
+            Islam alghoul
         </div>
             
         )
