@@ -31,6 +31,7 @@ numberOfVotes :"❤️"
         <p>id:{ this.props.id} </p>
         <p>{this.props.description}</p>
         <p>{this.props.horns}</p>
+        <p>vote for your favorite beast {this.state.numberOfVotes}</p>
         </Card.Text>
         {/* <Button variant="primary">Go somewhere</Button> */}
       </Card.Body>
@@ -42,7 +43,7 @@ numberOfVotes :"❤️"
             //     <p>id: { this.props.id} </p>
             //     <p>{this.props.description}</p>
             //     <p>{this.props.horns}</p>
-            //     <p>vote for your favorite beast {this.state.numberOfVotes}</p>
+            //     
 
                
                 
