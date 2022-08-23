@@ -31,6 +31,7 @@ onClickHandler=()=>{
         <Header />
         <Main Data={data} handel={this.onClickHandler}/>       
         <Footer />
+        <SelectedBeast/>
       </div>
 
 
